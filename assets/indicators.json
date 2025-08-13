@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Inflation Rate",
+    "definition": "Measures the rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling. The data represents headline inflation trends. Source: National Bank of Ethiopia (NBE) 2023/2024 Report.",
+    "isBarChart": true,
+    "data": [
+      {"year": 2019, "value": 15.8},
+      {"year": 2020, "value": 20.2},
+      {"year": 2021, "value": 30.0},
+      {"year": 2022, "value": 33.9},
+      {"year": 2023, "value": 28.5},
+      {"year": 2024, "value": 19.9}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Real GDP Growth",
+    "definition": "Real Gross Domestic Product (GDP) growth measures the annual percentage change in the country's economic output, adjusted for inflation. Source: National Bank of Ethiopia (NBE) 2023/2024 Report.",
+    "isBarChart": false,
+    "data": [
+      {"year": 2019, "value": 9.0},
+      {"year": 2020, "value": 6.1},
+      {"year": 2021, "value": 6.3},
+      {"year": 2022, "value": 7.2},
+      {"year": 2023, "value": 7.9},
+      {"year": 2024, "value": 7.5}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Export Earnings",
+    "definition": "The total value of goods and services exported from the country, indicating performance in international trade. Source: National Bank of Ethiopia (NBE) 2023/2024 Report.",
+    "isBarChart": false,
+    "data": [
+      {"year": 2019, "value": 2.8},
+      {"year": 2020, "value": 3.2},
+      {"year": 2021, "value": 3.6},
+      {"year": 2022, "value": 4.1},
+      {"year": 2023, "value": 4.5},
+      {"year": 2024, "value": 4.3}
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Non-Performing Loan (NPL) Ratio",
+    "definition": "The ratio of non-performing loans to total outstanding loans in the banking sector. A low ratio indicates a healthy financial system. Source: National Bank of Ethiopia (NBE) 2023/2024 Report.",
+    "isBarChart": false,
+    "data": [
+      {"year": 2019, "value": 4.5},
+      {"year": 2020, "value": 4.0},
+      {"year": 2021, "value": 3.8},
+      {"year": 2022, "value": 3.5},
+      {"year": 2023, "value": 3.9},
+      {"year": 2024, "value": 4.2}
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Foreign Direct Investment (FDI)",
+    "definition": "The net inflows of investment to acquire a lasting management interest in an enterprise operating in an economy other than that of the investor. Source: National Bank of Ethiopia (NBE) 2023/2024 Report.",
+    "isBarChart": true,
+    "data": [
+      {"year": 2019, "value": 2.5},
+      {"year": 2020, "value": 2.2},
+      {"year": 2021, "value": 2.8},
+      {"year": 2022, "value": 3.1},
+      {"year": 2023, "value": 3.5},
+      {"year": 2024, "value": 3.0}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Government Revenue",
+    "definition": "Total government revenue from all sources, including tax and non-tax revenues. Source: National Bank of Ethiopia (NBE) 2023/2024 Report.",
+    "isBarChart": false,
+    "data": [
+      {"year": 2019, "value": 250},
+      {"year": 2020, "value": 280},
+      {"year": 2021, "value": 310},
+      {"year": 2022, "value": 350},
+      {"year": 2023, "value": 400},
+      {"year": 2024, "value": 430}
+    ]
+  }
+]
